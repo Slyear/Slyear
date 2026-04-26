@@ -1,16 +1,20 @@
-## Hi there 👋
+### 👋Hey, I´m Levin!
+## 🚀 About Me
 
-<!--
-**Slyear/Slyear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 💻 Passionate about coding & tech
+* 🧠 Always learning and improving
+* ⚡ Interested in new tools, trends & innovation
+* 🌍 Open to exciting projects & collaborations
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 👨‍💻 Languages: `JavaScript` | `Python` | `HTML` | `C#`
+* ⚙️ Tools: `VS` | `VS Code` 
+* 🧩 Interests: Web Development, Automation
+
+## 📈 Current Goals
+
+* 🔥 Level up my skills
+* 💸 Make a Living
+
+⭐️ *"Keep building. Keep learning."*
