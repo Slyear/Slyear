@@ -8,13 +8,13 @@
 
 ## 🛠️ Tech Stack
 
-* 👨‍💻 Languages: `JavaScript` | `Python` | `HTML` | `C#`
+* 👨‍💻 Languages: `Lua` | `Python` | `HTML` | `C#`
 * ⚙️ Tools: `VS` | `VS Code` 
-* 🧩 Interests: Web Development, Automation
+* 🌐 Web Development, Automation, Problem Solving
 
 ## 📈 Current Goals
 
 * 🔥 Level up my skills
-* 💸 Make a Living
+* 🚀 Turn coding into a full-time career
 
 ⭐️ *"Keep building. Keep learning."*
